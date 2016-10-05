@@ -1,13 +1,11 @@
 # Signature
 
-How to preview the Signature ?
-Simply go to : https://htmlpreview.github.io/?https://github.com/ineat/signature/blob/gh-pages/index.html
+Comment faire votre propre signature ?
+Cliquez simplement ici : https://htmlpreview.github.io/?https://github.com/ineat/signature/blob/gh-pages/index.html
 
-How to use it ?
-Simply copy/paste what you see in the page with CRTL+A and CTRL+V in the custom signature place !
+Une fois sur l'aperçu, un petit CTRL+A sur la page puis CTRL+V dans l'onglet signature de votre boite Outlook et vous y serez presque !
 
-And after ?
-Juste change your informations and save ! ;-)
+Il vous reste à changer votre Nom, Téléphone et Adresse mail et le tour est joué !
 
 Make innovation easy.
 
