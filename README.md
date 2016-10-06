@@ -1,7 +1,7 @@
 # Signature
 
 Comment faire votre propre signature ?
-Cliquez simplement ici : https://htmlpreview.github.io/?https://github.com/ineat/signature/blob/gh-pages/index.html
+Cliquez simplement ici : https://ineat.github.io/signature/
 
 Une fois sur l'aperçu, CTRL+A et CTRL+C sur la page puis CTRL+V dans l'onglet signature de votre boite Outlook et vous y serez presque !
 
