@@ -1,4 +1,4 @@
-# Signature
+# Signature INEAT
 
 Comment faire votre propre signature ?
 
@@ -11,5 +11,10 @@ Une fois sur l'aperçu :</br>
 - Il vous reste à changer votre Nom, Téléphone et Adresse mail et le tour est joué !
 
 Make innovation easy.
+
+
+# Utilisateur Thunderbird ?
+
+
 
 
