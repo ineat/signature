@@ -18,11 +18,6 @@ Make innovation easy.
 Copiez-collez ce HTML dans votre espace signature en cochant la case "HTML".
 
 ## LILLE
-`test`
-
-blabla
- 
-## PARIS
 `<table cellpadding="0" cellspacing="0" border="0" style="background: none; border-width: 0px; border: 0px; margin: 0; padding: 0;">
   <tr>
      <td style="width: 100px; padding-top: 0; padding-bottom: 0; padding-left: 0; padding-right: 7px; border-top: 0; border-bottom: 0: border-left: 0; border-right: solid 3px #ff0042  ">
@@ -39,4 +34,24 @@ blabla
   </tr>
 </table>
 <p style="margin-top:10px; font-size: 10px; color: #ff0042; font-family: Arial, Helvetica, sans-serif;">2006-2016 — Pour ses 10 ans INEAT fait peau neuve : nouveau logo, nouvelle identité</p>`
+
+blabla
+ 
+## PARIS
+``<table cellpadding="0" cellspacing="0" border="0" style="background: none; border-width: 0px; border: 0px; margin: 0; padding: 0;">
+  <tr>
+     <td style="width: 100px; padding-top: 0; padding-bottom: 0; padding-left: 0; padding-right: 7px; border-top: 0; border-bottom: 0: border-left: 0; border-right: solid 3px #ff0042  ">
+      <img style="max-width: 100%;" src="https://raw.githubusercontent.com/ineat/signature/gh-pages/logo_signature.jpg">
+     </td>
+     <td style="width: 400px; padding-top: 0; padding-bottom: 0; padding-left: 12px; padding-right: 0;">
+      <p style="margin: 0px; padding-bottom: 0px; font-size: 14px; font-family: Arial, Helvetica, sans-serif; font-weight:bold;">Prénom Nom</p>
+      <p style="margin: 0px; padding-bottom: 0px; font-size: 11px; font-family: Arial, Helvetica, sans-serif; color:#ff0042; "><i>- Votre Poste -</i></p><br/>
+      <p style="margin: 0px; padding-bottom: 0px; font-size: 11px; font-family: Arial, Helvetica, sans-serif;">+33 (0)6 00 00 00 00</p>
+      <p style="margin: 0px; padding-bottom: 0px; font-size: 11px; font-family: Arial, Helvetica, sans-serif;">prenom.nom@ineat-conseil.fr</p>
+      <p style="margin-top:10px; font-size: 11px; font-family: Arial, Helvetica, sans-serif;">INEAT Paris - Immeuble le Quintet<br/>81 / 83 avenue Edouard Vaillant -  Bât E <br/>92100 Boulogne-Billancourt</p>
+      <p style="margin: 0px; padding-bottom: 0px; font-size: 11px; font-family: Arial, Helvetica, sans-serif;">www.ineat-group.com</p>
+     </td>
+  </tr>
+</table>
+<p style="margin-top:10px; font-size: 10px; color: #ff0042; font-family: Arial, Helvetica, sans-serif;">2006-2016 — Pour ses 10 ans INEAT fait peau neuve : nouveau logo, nouvelle identité</p>``
 
