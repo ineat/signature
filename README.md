@@ -14,14 +14,14 @@ Make innovation easy.
 
 # Utilisateur de la messagerie OWA via navigateur ?
 
-Vous tendez l'baton pour vous faire battre... 
-Pour faire face à ce cas, contactez moi : mickael.hibon@ineat-conseil.fr
-Je vous ferais une signature sur mesure !
+<span>Vous tendez l'baton pour vous faire battre...</span></br> 
+<span>Pour faire face à ce cas, contactez moi : mickael.hibon@ineat-conseil.fr</span></br>
+<span>Je vous ferais une signature sur mesure !</span></br>
 
 # Utilisateur Thunderbird ?
 
-Copiez-collez ce HTML dans votre espace signature en cochant la case "HTML".
-N'oubliez pas de modifier Prénom, Nom, Téléphone et Adresse mail... ;-)
+<span>Copiez-collez ce HTML dans votre espace signature en cochant la case "HTML".</span></br>
+<span>N'oubliez pas de modifier Prénom, Nom, Téléphone et Adresse mail... ;-)</span></br>
 
 ## LILLE
 ```
