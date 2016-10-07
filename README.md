@@ -8,14 +8,20 @@ Comment faire votre propre signature ?
 Une fois sur l'aperçu :</br>
 - CTRL+A et CTRL+C sur la page</br>
 - puis CTRL+V dans l'onglet signature de votre boite Outlook.</br>
-- Il vous reste à changer votre Nom, Téléphone et Adresse mail et le tour est joué !
+- Il vous reste à changer votre Prénom, Nom, Téléphone et Adresse mail et le tour est joué !
 
 Make innovation easy.
 
+# Utilisateur de la messagerie OWA via navigateur ?
+
+Vous tendez l'baton pour vous faire battre... 
+Pour faire face à ce cas, contactez moi : mickael.hibon@ineat-conseil.fr
+Je vous ferais une signature sur mesure !
 
 # Utilisateur Thunderbird ?
 
 Copiez-collez ce HTML dans votre espace signature en cochant la case "HTML".
+N'oubliez pas de modifier Prénom, Nom, Téléphone et Adresse mail... ;-)
 
 ## LILLE
 ```
