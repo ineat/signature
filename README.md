@@ -33,8 +33,10 @@ Copiez-collez ce HTML dans votre espace signature en cochant la case "HTML".
      </td>
    </tr>
 </table>
-<p style="margin-top:10px; font-size: 10px; color: #ff0042; font-family: Arial, Helvetica, sans-serif;">2006-2016 — Pour ses 10 ans INEAT fait peau neuve : nouveau logo, nouvelle identité</p>
-`
+<p style="margin-top:10px; font-size: 10px; color: #ff0042; font-family: Arial, Helvetica, sans-serif;">2006-2016 — Pour ses 10 ans INEAT fait peau neuve : nouveau logo, nouvelle identité</p>`
+
+blabla
+ 
 ## PARIS
 `<table cellpadding="0" cellspacing="0" border="0" style="background: none; border-width: 0px; border: 0px; margin: 0; padding: 0;">
   <tr>
