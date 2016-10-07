@@ -1,6 +1,6 @@
 # Signature Outlook
 
-Comment faire votre propre signature ?
+Comment faire votre propre signature sur Outlook ?
 
 <span>Pour Lille, cliquez simplement ici : https://ineat.github.io/signature/signature_lille.html</span></br>
 <span>Et pour Paris, c'est par ici : https://ineat.github.io/signature/signature_paris.html</span>
@@ -14,13 +14,14 @@ Make innovation easy.
 
 # Utilisateur de la messagerie OWA via navigateur ?
 
-<span>Vous tendez l'baton pour vous faire battre...</span></br> 
+<span>Vous tendez l'baton pour vous faire battre vous !</span></br> 
 <span>Pour faire face à ce cas, contactez moi : mickael.hibon@ineat-conseil.fr</span></br>
-<span>Je vous ferais une signature sur mesure !</span></br>
+<span>Je vous ferais une signature sur mesure... La classe !</span></br>
 
 # Utilisateur Thunderbird ?
+### ( -> Ou autre messagerie qui ne fonctionne pas avec le copier-coller)
 
-<span>Copiez-collez ce HTML dans votre espace signature en cochant la case "HTML".</span></br>
+<span>Copiez-collez l'un des HTML ci-dessous dans votre espace signature en cochant la case "HTML".</span></br>
 <span>N'oubliez pas de modifier Prénom, Nom, Téléphone et Adresse mail... ;-)</span></br>
 
 ## LILLE
