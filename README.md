@@ -18,7 +18,7 @@ Make innovation easy.
 Copiez-collez ce HTML dans votre espace signature en cochant la case "HTML".
 
 ## LILLE
-```<table cellpadding="0" cellspacing="0" border="0" style="background: none; border-width: 0px; border: 0px; margin: 0; padding: 0;">
+`<table cellpadding="0" cellspacing="0" border="0" style="background: none; border-width: 0px; border: 0px; margin: 0; padding: 0;">
   <tr>
      <td style="width: 100px; padding-top: 0; padding-bottom: 0; padding-left: 0; padding-right: 7px; border-top: 0; border-bottom: 0: border-left: 0; border-right: solid 3px #ff0042  ">
       <img style="max-width: 100%;" src="https://raw.githubusercontent.com/ineat/signature/gh-pages/logo_signature.jpg">
@@ -34,7 +34,7 @@ Copiez-collez ce HTML dans votre espace signature en cochant la case "HTML".
    </tr>
 </table>
 <p style="margin-top:10px; font-size: 10px; color: #ff0042; font-family: Arial, Helvetica, sans-serif;">2006-2016 — Pour ses 10 ans INEAT fait peau neuve : nouveau logo, nouvelle identité</p>
-```
+`
 ## PARIS
 `<table cellpadding="0" cellspacing="0" border="0" style="background: none; border-width: 0px; border: 0px; margin: 0; padding: 0;">
   <tr>
