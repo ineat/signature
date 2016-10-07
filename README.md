@@ -14,8 +14,9 @@ Make innovation easy.
 
 # Utilisateur de la messagerie OWA via navigateur ?
 
-<span>Vous tendez l'baton pour vous faire battre vous !</span></br> 
-<span>Pour faire face à ce cas, contactez moi : mickael.hibon@ineat-conseil.fr</span></br>
+<span>Vous tendez l'baton pour vous faire battre vous...</span></br>
+<span>Si c'est possible, utilisez le logiciel Outlook ! ;-)</span></br>
+<span>Si c'est un cas particulier et que vous n'avez pas vraiment le choix, contactez moi : mickael.hibon@ineat-conseil.fr</span></br>
 <span>Je vous ferais une signature sur mesure... La classe !</span></br>
 
 # Utilisateur Thunderbird ?
