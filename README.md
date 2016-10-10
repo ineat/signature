@@ -19,8 +19,7 @@ Make innovation easy.
 <span>Si c'est un cas particulier et que vous n'avez pas vraiment le choix, contactez moi : mickael.hibon@ineat-conseil.fr</span></br>
 <span>Je vous ferais une signature sur mesure... La classe !</span></br>
 
-# Utilisateur Thunderbird ?
-### ( -> Ou autre messagerie qui ne fonctionne pas avec le copier-coller de l'aperçu)
+# Utilisateur Thunderbird ou autre messagerie qui ne fonctionne pas avec le copier-coller de l'aperçu?
 
 <span>Copiez-collez l'un des HTML ci-dessous dans votre espace signature en cochant la case "HTML".</span></br>
 <span>N'oubliez pas de modifier Prénom, Nom, Téléphone et Adresse mail... ;-)</span></br>
