@@ -24,7 +24,10 @@ Je vous ferais une signature sur mesure... La classe !
 
 ## Thunderbird (ou autre messagerie qui ne fonctionne pas avec le copier-coller)
 
-Copiez-collez l'un des `HTML` ci-dessous dans votre espace signature en cochant la case __ [] HTML__
+Copiez-collez l'un des `HTML` ci-dessous dans votre espace signature en cochant la case 
+
+- [] HTML
+
 N'oubliez pas de modifier __Prénom__, __Nom__, __Téléphone__ et __Adresse mail__... ;-)
 
 ### LILLE
