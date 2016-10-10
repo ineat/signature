@@ -20,7 +20,7 @@ Make innovation easy.
 <span>Je vous ferais une signature sur mesure... La classe !</span></br>
 
 # Utilisateur Thunderbird ?
-### ( -> Ou autre messagerie qui ne fonctionne pas avec le copier-coller)
+### ( -> Ou autre messagerie qui ne fonctionne pas avec le copier-coller de l'aperçu)
 
 <span>Copiez-collez l'un des HTML ci-dessous dans votre espace signature en cochant la case "HTML".</span></br>
 <span>N'oubliez pas de modifier Prénom, Nom, Téléphone et Adresse mail... ;-)</span></br>
