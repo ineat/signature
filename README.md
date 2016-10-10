@@ -1,4 +1,4 @@
-# Signature Outlook
+# Signature INEAT Outlook
 
 Comment faire votre propre signature sur Outlook ?
 
