@@ -26,7 +26,7 @@ Je vous ferais une signature sur mesure... La classe !
 
 Copiez-collez l'un des `HTML` ci-dessous dans votre espace signature en cochant la case 
 
-- [] HTML
+- [ ] HTML
 
 N'oubliez pas de modifier __Prénom__, __Nom__, __Téléphone__ et __Adresse mail__... ;-)
 
