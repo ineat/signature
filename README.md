@@ -1,16 +1,26 @@
 # Signature email INEAT
+Comment faire votre propre signature ?
 
 ## Outlook
 
-Comment faire votre propre signature sur Outlook ?
+Pour Lille, cliquez simplement ici : https://ineat.github.io/signature/signature_lille.html
 
-<span>Pour Lille, cliquez simplement ici : https://ineat.github.io/signature/signature_lille.html</span></br>
-<span>Et pour Paris, c'est par ici : https://ineat.github.io/signature/signature_paris.html</span>
+Et pour Paris, c'est par ici : https://ineat.github.io/signature/signature_paris.html
 
 Une fois sur l'aperçu :</br>
 - `CTRL + A` et `CTRL + C` sur la page</br>
-- puis `CTRL + V` dans l'onglet signature de votre boite Outlook.</br>
+- puis `CTRL + V` dans la section signature de votre boite Outlook (cf. ci-dessous)</br>
 - Il vous reste à changer votre __Prénom__, __Nom__, __Téléphone__ et __Adresse email__ et le tour est joué !
+
+### Où trouver le menu dans Outlook Online (via le portail Office365)
+Ouvrez votre boite mail en ligne (https://outlook.office.com/owa/). Ouvrir le menu "Paramètres" via la roue dentée depuis la barre du haut, puis la section "Paramètres de vos applications > Courrier" dans le menu de droite.
+Dans le menu de gauche RDV dans le menu "Courrier > Disposition > Signature électronique"
+
+### Où trouver le menu dans Outlook 2016 sur Windows
+Dans Outlook depuis le menu du haut allez dans "Fichier > Options", dans la fenêtre qui s'ouvre allez dans la section "Courrier" dans le menu de gauche, vous trouverez la sections "Créer ou modifier les signatures de messages.".
+
+### Où trouver le menu dans Outlook 2016 sur Mac
+Dans Outlook depuis le menu du haut allez dans "Outlook > Préférences", dans la fenêtre qui s'ouvre cliquez sur "Signatures".
 
 ## Thunderbird (ou autre messagerie qui ne fonctionne pas avec le copier-coller)
 
@@ -49,7 +59,7 @@ N'oubliez pas de modifier __Prénom__, __Nom__, __Téléphone__ et __Adresse mai
       <p style="margin: 0px; padding-bottom: 0px; font-size: 11px; font-family: Arial, Helvetica, sans-serif; color:#ff0042; "><i>- Votre Fonction -</i></p><br/>
       <p style="margin: 0px; padding-bottom: 0px; font-size: 11px; font-family: Arial, Helvetica, sans-serif;">+33 (0)6 00 00 00 00</p>
       <p style="margin: 0px; padding-bottom: 0px; font-size: 11px; font-family: Arial, Helvetica, sans-serif;">prenom.nom@ineat-conseil.fr</p>
-      <p style="margin-top:10px; margin-bottom: 0px; font-size: 11px; font-family: Arial, Helvetica, sans-serif;">INEAT Paris - Immeuble le Quintet<br/>81 / 83 avenue Edouard Vaillant -  Bât E <br/>92100 Boulogne-Billancourt</p>
+      <p style="margin-top:10px; margin-bottom: 0px; font-size: 11px; font-family: Arial, Helvetica, sans-serif;">INEAT Paris<br/>32 rue Mogador <br/>75009 PARIS</p>
       <p style="margin: 0px; padding-bottom: 0px; font-size: 11px; font-family: Arial, Helvetica, sans-serif;">www.ineat-group.com</p>
      </td>
   </tr>
