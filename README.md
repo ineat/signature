@@ -14,10 +14,10 @@ Une fois sur l'aperçu :</br>
 
 ### Où trouver le menu dans Outlook Online (via le portail Office365)
 Ouvrez votre boite mail en ligne (https://outlook.office.com/owa/). Ouvrir le menu "Paramètres" via la roue dentée depuis la barre du haut, puis la section "Paramètres de vos applications > Courrier" dans le menu de droite.
-Dans le menu de gauche RDV dans le menu "Courrier > Disposition > Signature électronique"
+Dans le menu de gauche RDV dans le menu "Courrier > Disposition > Signature électronique".
 
 ### Où trouver le menu dans Outlook 2016 sur Windows
-Dans Outlook depuis le menu du haut allez dans "Fichier > Options", dans la fenêtre qui s'ouvre allez dans la section "Courrier" dans le menu de gauche, vous trouverez la sections "Créer ou modifier les signatures de messages.".
+Dans Outlook depuis le menu du haut allez dans "Fichier > Options", dans la fenêtre qui s'ouvre allez dans la section "Courrier" dans le menu de gauche, vous trouverez la section "Créer ou modifier les signatures de messages.".
 
 ### Où trouver le menu dans Outlook 2016 sur Mac
 Dans Outlook depuis le menu du haut allez dans "Outlook > Préférences", dans la fenêtre qui s'ouvre cliquez sur "Signatures".
