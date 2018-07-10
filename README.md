@@ -59,7 +59,7 @@ N'oubliez pas de modifier __Prénom__, __Nom__, __Téléphone__ et __Adresse mai
       <p style="margin: 0px; padding-bottom: 0px; font-size: 11px; font-family: Arial, Helvetica, sans-serif; color:#ff0042; "><i>- Votre Fonction -</i></p><br/>
       <p style="margin: 0px; padding-bottom: 0px; font-size: 11px; font-family: Arial, Helvetica, sans-serif;">+33 (0)6 00 00 00 00</p>
       <p style="margin: 0px; padding-bottom: 0px; font-size: 11px; font-family: Arial, Helvetica, sans-serif;">prenom.nom@ineat-conseil.fr</p>
-      <p style="margin-top:10px; margin-bottom: 0px; font-size: 11px; font-family: Arial, Helvetica, sans-serif;">INEAT Paris<br/>32 rue Mogador <br/>75009 PARIS</p>
+      <p style="margin-top:10px; margin-bottom: 0px; font-size: 11px; font-family: Arial, Helvetica, sans-serif;">INEAT Paris<br/>32 rue de Mogador <br/>75009 PARIS</p>
       <p style="margin: 0px; padding-bottom: 0px; font-size: 11px; font-family: Arial, Helvetica, sans-serif;">www.ineat-group.com</p>
      </td>
   </tr>
