@@ -47,8 +47,9 @@ N'oubliez pas de modifier __Prénom__, __Nom__, __Téléphone__ et __Adresse mai
       <p style="margin-top:10px; margin-bottom: 0px; font-size: 11px; font-family: Arial, Helvetica, sans-serif;">INEAT Lille - Euratechnologies <br/> 2, allée de la Haye du Temple<br/>59160 Lomme – France</p>
       <p style="margin: 0px; padding-bottom: 0px; font-size: 11px; font-family: Arial, Helvetica, sans-serif;">www.ineat-group.com</p>
      </td>
-     <td style="width: 200px">
-       <img style="max-width: 100%;" src="https://raw.githubusercontent.com/ineat/signature/gh-pages/happy_at_work.png">
+     <td style="width: 150px">
+       <img style="display: block; max-width: 100%" src="https://raw.githubusercontent.com/ineat/signature/gh-pages/happy_at_work.png">
+       <img style="display: block; max-width: 100%" src="https://raw.githubusercontent.com/ineat/signature/gh-pages/pass_french_tech.png">
      </td>
    </tr>
 </table>
@@ -69,8 +70,9 @@ N'oubliez pas de modifier __Prénom__, __Nom__, __Téléphone__ et __Adresse mai
       <p style="margin-top:10px; margin-bottom: 0px; font-size: 11px; font-family: Arial, Helvetica, sans-serif;">INEAT Paris<br/>32 rue de Mogador <br/>75009 PARIS</p>
       <p style="margin: 0px; padding-bottom: 0px; font-size: 11px; font-family: Arial, Helvetica, sans-serif;">www.ineat-group.com</p>
      </td>
-     <td style="width: 200px">
-       <img style="max-width: 100%;" src="https://raw.githubusercontent.com/ineat/signature/gh-pages/happy_at_work.png">
+     <td style="width: 150px">
+       <img style="display: block; max-width: 100%" src="https://raw.githubusercontent.com/ineat/signature/gh-pages/happy_at_work.png">
+       <img style="display: block; max-width: 100%" src="https://raw.githubusercontent.com/ineat/signature/gh-pages/pass_french_tech.png">
      </td>
   </tr>
 </table>
@@ -91,8 +93,9 @@ N'oubliez pas de modifier __Prénom__, __Nom__, __Téléphone__ et __Adresse mai
       <p style="margin-top:10px; margin-bottom: 0px; font-size: 11px; font-family: Arial, Helvetica, sans-serif;">INEAT Lyon <br/> 18/20 rue Tronchet<br/>69006 Lyon – France</p>
       <p style="margin: 0px; padding-bottom: 0px; font-size: 11px; font-family: Arial, Helvetica, sans-serif;">www.ineat-group.com</p>
      </td>
-     <td style="width: 200px">
-       <img style="max-width: 100%;" src="https://raw.githubusercontent.com/ineat/signature/gh-pages/happy_at_work.png">
+     <td style="width: 150px">
+       <img style="display: block; max-width: 100%" src="https://raw.githubusercontent.com/ineat/signature/gh-pages/happy_at_work.png">
+       <img style="display: block; max-width: 100%" src="https://raw.githubusercontent.com/ineat/signature/gh-pages/pass_french_tech.png">
      </td>
    </tr>
 </table>
@@ -113,8 +116,9 @@ N'oubliez pas de modifier __Prénom__, __Nom__, __Téléphone__ et __Adresse mai
       <p style="margin-top:10px; margin-bottom: 0px; font-size: 11px; font-family: Arial, Helvetica, sans-serif;">INEAT CANADA INC <br/> 204, Rue Saint-Sacrement<br/>Suite 700<br/>Montréal, QC H2Y 1W8 - Canada</p>
       <p style="margin: 0px; padding-bottom: 0px; font-size: 11px; font-family: Arial, Helvetica, sans-serif;">www.ineat-group.com</p>
      </td>
-     <td style="width: 200px">
-       <img style="max-width: 100%;" src="https://raw.githubusercontent.com/ineat/signature/gh-pages/happy_at_work.png">
+     <td style="width: 150px">
+       <img style="display: block; max-width: 100%" src="https://raw.githubusercontent.com/ineat/signature/gh-pages/happy_at_work.png">
+       <img style="display: block; max-width: 100%" src="https://raw.githubusercontent.com/ineat/signature/gh-pages/pass_french_tech.png">
      </td>
    </tr>
 </table>
